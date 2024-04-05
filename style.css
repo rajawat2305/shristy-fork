@@ -1,0 +1,67 @@
+body{
+    background-color:black;
+}
+.head{
+    background-color: palevioletred;
+    color: black;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:gray ;
+    text-shadow: -4px -6px 4px gold;
+}
+.first{
+    background-color: blueviolet;
+    color: black;
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: -4px -6px 4px white;
+    
+}
+p{
+    background-color: pink;
+    color: black;
+    font-family:monospace;
+    text-decoration: underline;
+    text-decoration-style:wavy ;
+    text-decoration-color: gold;
+    text-shadow: 4px 4px -6px;
+     
+}
+.f{
+    
+    color:crimson;
+    font-size: large;
+    font-family:cursive;
+    font-style: oblique;
+    text-decoration:underline;
+    text-decoration-style:dotted;
+    text-decoration-color: aliceblue;
+    
+    
+    
+
+}
+li{
+    font-size:medium;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: -2px -3px -2px beige;
+}
+span{
+    color: red;
+    font-family: fantasy;
+    text-shadow: -2px 6px 6px black;
+    text-decoration: underline;
+    text-decoration-style:dotted;
+
+
+}
+h1{
+    color: aliceblue;
+}
+h4{
+    color: aqua;
+}
+

@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+.para{
+    word-spacing: 50px;
+    letter-spacing: 9px;
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    
+    
+}
+.main{
+    background-color: blueviolet;
+   /* padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;*/
+    padding: 20px;
+    margin: 50px;
+    
+}
+.main button{
+    padding: 5px;
+}
+.two{
+    height: 200px;
+    width:200px;
+    background-color: red;
+    /* box-shadow: 4px 6px 4px 6px black; */
+     border: 10px solid blueviolet; 
+    /* border-radius: 30px; */
+    /* border-top-left-radius:30px ; */
+    /* border-bottom-right-radius:30px ; */
+    border-radius: 50%;
+    background-image: url(img2.jpg);
+    
+}

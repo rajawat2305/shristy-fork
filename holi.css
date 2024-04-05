@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    background-image: url(holi2.jpg);
+    background-size: auto;
+    
+    
+}
+h1{
+    font-size:100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(holi.jpg);
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    box-shadow: 10px 10px 10px;
+    border-radius: 12px;
+    padding: 10px 20px;
+    width: 40%;
+    
+}
+h1:hover{
+    box-shadow: -10px 5px 100px red;
+}
+    
+h2{
+    font-size:100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(holi.jpg);
+    background-size:cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    box-shadow: 10px 10px 10px;
+    border-radius: 12px;
+    padding: 10px 20px;
+    width: 90%;
+    text-align: right;
+   
+
+}
+h2:hover{
+    box-shadow:0px 5px 100px green;
+}
